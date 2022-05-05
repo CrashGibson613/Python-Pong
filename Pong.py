@@ -1,6 +1,7 @@
-#Turtle is a module which lets use use a canvas to make 2D graphics
-from pickle import FALSE, TRUE
+
 import turtle
+
+#booleans to disable paddle movement when they are at the edge
 canMoveUp = True
 canMoveDown = True
 canMoveUpB = True
